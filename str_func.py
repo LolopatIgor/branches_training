@@ -1,5 +1,5 @@
 def get_upper(string: str):
-    """Делае все буквы заглавными"""
+    """Делает все буквы заглавными"""
     return string.upper()
 
 
